@@ -1,3 +1,1 @@
-fun {Fact N}
-   if N =< 0 then 1 else N*{Fact N-1} end
-end
+print("performs human resource management, overseeing various aspects of employment, such as compliance with labor law and employment standards, interviewing and selection, performance management, administration of employee benefits, organizing of employee files with the required documents for future reference, and some aspects of recruitment (also known as talent acquisition), talent management, staff wellbeing, and employee offboarding.")
